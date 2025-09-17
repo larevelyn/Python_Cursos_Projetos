@@ -1,0 +1,6 @@
+vl = input('Digite algo: ')
+print('O tipo primitivo é: {}'.format(type(vl)))
+print('Letra: {}'.format(vl.isalpha()))
+print('Alphanumerico: {}'.format((vl.isalnum())))
+print('Maiusculo: {}'.format((vl.isupper())))
+print('Minusculo: {}'.format(vl.islower()))
