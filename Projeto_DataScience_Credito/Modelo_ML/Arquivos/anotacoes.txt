@@ -1,0 +1,18 @@
+Confiabilidade do cliente
+
+Prazo médio recebimento Vendas -> pediodo que demorou para receber o valor do cliente
+Titulos em aberto -> Valores não pagos 
+difenrença percentual -> um valor para uma futura analize, por exemplo a área do carro pode ter relação com o motor
+ativo circulante -> quanto o cliente tem em dinheiro
+substituir o valor faltante pela média/médiana da coluna
+
+um cliente confiavel pode ser o que tiver menor o número maiorAtraso/prazoMedioRecebimentoVendas/titulosEmAberto
+
+ativo - passivo -> quanto tem sobrando
+
+empresa mais antiga
+
+restições -> verdadeira
+
+score bom -> 1
+
